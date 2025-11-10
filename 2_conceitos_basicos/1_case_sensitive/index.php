@@ -2,8 +2,8 @@
 
 // Não é case sensitive
 echo "teste <br>";
-eChO "Testando 2 <br>";
-ECHO "Testando 3 <br>";
+echo "Testando 2 <br>";
+echo "Testando 3 <br>";
 
 // É case sensitive
 $nome = "Pedro";
