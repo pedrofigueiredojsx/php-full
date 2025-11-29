@@ -32,5 +32,9 @@ $nome = "Pedro";
 $nomeDoSistema = "Pedro";
 
 if ($nome == $nomeDoSistema) {
-  echo "O nome coincide <br>";
+  echo "O nome coincide 1<br>";
+}
+
+if ($nome = $nomeDoSistema) {
+  echo "O nome coincide 2<br>";
 }
