@@ -6,7 +6,7 @@ while ($x < 10) {
   echo "O X é $x <br>";
 
   if($x === 5) {
-    echo "TErminando o loop <br>";
+    echo "Terminando o loop <br>";
     break;
   }
 
